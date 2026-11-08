@@ -1,0 +1,11 @@
+# Версии, на которых ноутбук и отчёт были выполнены (Python 3.13)
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
+matplotlib==3.10.7
+scikit-learn==1.7.2
+statsmodels==0.14.5
+sktime==1.2.0
+python-docx==1.2.0
+jupyter
+nbconvert
